@@ -17,8 +17,8 @@
  *   "imports": {
  *     "preact":  "https://esm.sh/preact@10.15.1",
  *     "preact/": "https://esm.sh/preact@10.15.1/",
- *     "react-icons/hi":  "https://cdn.jsdelivr.net/gh/urielch/react-icons-hi@1.0.5/mod.ts",
- *     "react-icons/hi/": "https://cdn.jsdelivr.net/gh/urielch/react-icons-hi@1.0.5/ico/",
+ *     "react-icons/hi":  "https://cdn.jsdelivr.net/gh/urielch/react-icons-hi@1.0.6/mod.ts",
+ *     "react-icons/hi/": "https://cdn.jsdelivr.net/gh/urielch/react-icons-hi@1.0.6/ico/",
  *   }
  * }
  * ```
@@ -26,7 +26,7 @@
  * ## Direct import sample
  * 
  * ```ts
- * import { HiAcademicCap } from "https://deno.land/x/react_icons_hi@1.0.5/mod.ts"
+ * import { HiAcademicCap } from "https://deno.land/x/react_icons_hi@1.0.6/mod.ts"
  * ```
  * 
  * ## import_map import sample
